@@ -44,7 +44,7 @@ This project provides an intuitive understanding of how quantum mechanics alters
 ## 🚀 Setup & Execution
 
 # Clone the repository
-git clone https://github.com/<your-username>/quantum-vs-classical-walk.git
+git clone https://github.com/Sayandip2005/Quantum-VS-Classical-Walk
 cd quantum-vs-classical-walk
 
 # (Optional) Create and activate a virtual environment
@@ -60,4 +60,5 @@ python src/main.py
 
 # The result plot will open automatically and be saved at:
 # results/plots
+
 
