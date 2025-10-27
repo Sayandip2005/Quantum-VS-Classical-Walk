@@ -57,12 +57,13 @@ pip install -r requirements.txt
 # Run the simulation
 python src/main.py
 
+# The result plot will open automatically and be saved at:
+# results/plots
+
 
 
 ## See the Results section for comparative probability plots of Classical and Quantum walks.
 
-# The result plot will open automatically and be saved at:
-# results/plots
 
 
 
