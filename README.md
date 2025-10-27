@@ -59,4 +59,5 @@ pip install -r requirements.txt
 python src/main.py
 
 # The result plot will open automatically and be saved at:
-# results/comparison_plot.png
+# results/plots
+
