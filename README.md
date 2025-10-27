@@ -44,18 +44,18 @@ This project provides an intuitive understanding of how quantum mechanics alters
 ## 🚀 Setup & Execution
 
 - Clone the repository
-git clone https://github.com/Sayandip2005/Quantum-VS-Classical-Walk
+-git clone https://github.com/Sayandip2005/Quantum-VS-Classical-Walk
 
 - (Optional) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate       # macOS/Linux
+-python -m venv venv
+-source venv/bin/activate       # macOS/Linux
 - venv\Scripts\activate        # Windows
 
 - Install dependencies
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
 - Run the simulation
-python src/main.py
+-python src/main.py
 
 - The result plot will open automatically and be saved at: results/plots
 
@@ -63,6 +63,7 @@ python src/main.py
 
 
 ## See the Results section for comparative probability plots of Classical and Quantum walks.
+
 
 
 
